@@ -1,6 +1,5 @@
 #!/usr/bin/perl
 #**********************************************************************************#
-# xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxX#
 #                                                                                  #
 #                                                                                  #
 # PROGRAM: remove_duplicateCount.pl                                                #
